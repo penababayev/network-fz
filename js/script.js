@@ -178,16 +178,16 @@ jQuery(function ($) {
         layoutMode: 'mosaic',
         sortByDimension: true,
         mediaQueries: [{
-            width: 1500,
+            width: 400,
             cols: 6,
         }, {
-            width: 1100,
+            width: 200,
             cols: 4,
         }, {
-            width: 800,
+            width: 100,
             cols: 3,
         }, {
-            width: 480,
+            width: 50,
             cols: 1,
             options: {
                 gapHorizontal: 15,
