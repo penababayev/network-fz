@@ -248,6 +248,9 @@ section{padding: 7.5rem 0;}
 
 /* nav top default */
 
+
+
+
 header a.logo img {
     max-width: 300px;
     vertical-align: sub;
@@ -263,6 +266,7 @@ header a.logo img {
     -webkit-transition: none;
     -o-transition: none;
     transition: none;
+    background: linear-gradient(to top, transparent, rgba(0,0,0,0.9));
 }
 
 .other-page .navbar-top-default{
@@ -283,6 +287,7 @@ header a.logo img {
     animation-fill-mode: both;
     -webkit-box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.35);
     box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.35);
+    
 }
 
 .header-appear .navbar-top-default{
